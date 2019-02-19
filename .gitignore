@@ -1,5 +1,9 @@
-/.gitignore
+.gitignore
 /Variáveis/nbproject/private/
 /Variáveis/build/
 /aula11/VariaveisInteiras/nbproject/private/
 /aula11/VariaveisInteiras/build/
+/aula12/LeituraDadosTeclado/nbproject/private/
+/aula12/LeituraDadosTeclado/build/
+/aula13/OperadoresAritimeticos/nbproject/private/
+/aula13/OperadoresAritimeticos/build/
